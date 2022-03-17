@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to bottom right, blue 40%, black);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 18px;
+    text-align: center;
+}
+
+h3, h4{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    border-radius: 50%;
+    
+}
+
+.centrar-listas{
+    text-align: center;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+    text-align: left;
+    display: inline-block;
+}
